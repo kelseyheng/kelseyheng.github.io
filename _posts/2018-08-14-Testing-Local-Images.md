@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zach's Test Post
+title: Kelsey's Test Post
 ---
 
 This is a test post. 
@@ -13,10 +13,10 @@ Finally, you must also keep the
 ```
 ---
 layout: post
-title: Zach's Test Post
+title: Kelsey's Test Post
 ---
 ```
-WHATTTTTTTTT
+
 Part in the post to tell the page how to title your post and how to render it.
 
 Below are some examples of loading images, making links, and doing other
